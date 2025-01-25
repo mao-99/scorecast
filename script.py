@@ -21,9 +21,9 @@ leagues = [
             # 'https://www.flashscore.com/football/italy/serie-a/archive/',
             # 'https://www.flashscore.com/football/spain/laliga/archive/',
             # 'https://www.flashscore.com/football/usa/mls/archive/',
-            # 'https://www.flashscore.com/football/usa/usl-championship/archive/',
-            'https://www.flashscore.com/football/europe/champions-league/archive/',
-            'https://www.flashscore.com/football/europe/europa-league/archive/'
+            'https://www.flashscore.com/football/usa/usl-championship/archive/'
+            # 'https://www.flashscore.com/football/europe/champions-league/archive/',
+            # 'https://www.flashscore.com/football/europe/europa-league/archive/'
             ]
 
 
