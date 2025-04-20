@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2017-05-29",
+        "time": "14:30",
+        "home_goals": 0,
+        "away_goals": 1,
+        "id": 0,
+        "season_id": 1,
+        "league_id": 0,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "Eintracht Braunschweig",
+        "away_team_name": "VfL Wolfsburg",
+        "home_team_id": 6,
+        "away_team_id": 30
+    },
+    {
+        "date": "2017-05-25",
+        "time": "14:30",
+        "home_goals": 1,
+        "away_goals": 0,
+        "id": 1,
+        "season_id": 1,
+        "league_id": 0,
+        "round": 39,
+        "result": 1,
+        "home_team_name": "VfL Wolfsburg",
+        "away_team_name": "Eintracht Braunschweig",
+        "home_team_id": 30,
+        "away_team_id": 6
+    }
+]

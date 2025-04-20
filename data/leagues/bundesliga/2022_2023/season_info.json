@@ -1,0 +1,11 @@
+{
+    "id": 7,
+    "name": "2022_2023",
+    "league_id": 0,
+    "start_date": "2022-01-10",
+    "end_date": "2023-12-05",
+    "status": "completed",
+    "num_teams": 19,
+    "total_matches": 300,
+    "rounds": 39
+}

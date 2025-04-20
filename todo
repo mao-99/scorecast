@@ -1,41 +1,41 @@
 # To-Do List for Soccer Modeling Application Development
 
 ## **1. Introduction to the Soccer Modeling Application**
-- [ ] Define the application objectives.
-- [ ] Outline the features and capabilities.
-- [ ] Prepare the roadmap and tools list.
+- [X] Define the application objectives.
+- [X] Outline the features and capabilities.
+- [X] Prepare the roadmap and tools list.
 - [ ] Script and record the introductory video.
 
 ## **2. Data Sourcing by Scraping Data**
-- [ ] Research and verify Flashscore.com structure.
-- [ ] Set up Selenium environment.
-  - [ ] Install necessary Python libraries.
-  - [ ] Configure browser drivers (e.g., ChromeDriver).
-- [ ] Write the web scraping script.
-  - [ ] Extract match data (dates, teams, scores, etc.).
-  - [ ] Save data in JSON or CSV format.
-- [ ] Test the script for edge cases (e.g., missing data).
+- [X] Research and verify Flashscore.com structure.
+- [X] Set up Selenium environment.
+  - [X] Install necessary Python libraries.
+  - [X] Configure browser drivers (e.g., ChromeDriver).
+- [X] Write the web scraping script.
+  - [X] Extract match data (dates, teams, scores, etc.).
+  - [X] Save data in JSON or CSV format.
+- [X] Test the script for edge cases (e.g., missing data).
 - [ ] Script and record the data sourcing tutorial video.
 
-## **3. Data Cleaning and Preparation**
-- [ ] Load raw data into Pandas.
-- [ ] Identify and handle missing or incorrect data.
-  - [ ] Remove duplicates.
-  - [ ] Normalize formats (e.g., date and time).
-- [ ] Transform data for database compatibility.
-- [ ] Validate cleaned data.
-- [ ] Script and record the data cleaning tutorial video.
-
-## **4. Designing the Data Structure**
-- [ ] Draft the UML diagram.
-  - [ ] Identify entities and their relationships.
-  - [ ] Define attributes for each entity.
-- [ ] Review and finalize the data structure.
+## **3. Designing the Data Structure**
+- [X] Draft the UML diagram.
+  - [X] Identify entities and their relationships.
+  - [X] Define attributes for each entity.
+- [X] Review and finalize the data structure.
 - [ ] Script and record the UML diagram tutorial video.
 
+## **4. Data Cleaning and Preparation**
+- [X] Load raw data into Pandas.
+- [X] Identify and handle missing or incorrect data.
+  - [X] Remove duplicates.
+  - [X] Normalize formats (e.g., date and time).
+- [X] Transform data for database compatibility.
+- [X] Validate cleaned data.
+- [ ] Script and record the data cleaning tutorial video.
+
 ## **5. Database Design and Population**
-- [ ] Choose a database management system (e.g., MySQL, PostgreSQL).
-- [ ] Create the database schema.
+- [X] Choose a database management system (e.g., MySQL, PostgreSQL).
+- [X] Create the database schema.
   - [ ] Implement tables and relationships based on UML.
 - [ ] Write a script to populate the database with cleaned data.
   - [ ] Verify data consistency post-import.

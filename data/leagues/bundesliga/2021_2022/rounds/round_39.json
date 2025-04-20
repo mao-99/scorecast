@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-05-23",
+        "time": "14:30",
+        "home_goals": 0,
+        "away_goals": 2,
+        "id": 0,
+        "season_id": 6,
+        "league_id": 0,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "Hamburger SV",
+        "away_team_name": "Hertha BSC",
+        "home_team_id": 14,
+        "away_team_id": 17
+    },
+    {
+        "date": "2022-05-19",
+        "time": "14:30",
+        "home_goals": 0,
+        "away_goals": 1,
+        "id": 1,
+        "season_id": 6,
+        "league_id": 0,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "Hertha BSC",
+        "away_team_name": "Hamburger SV",
+        "home_team_id": 17,
+        "away_team_id": 14
+    }
+]

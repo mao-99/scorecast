@@ -1,0 +1,116 @@
+{
+    "bayern_munich": {
+        "id": 4,
+        "name": "bayern_munich",
+        "country": "Germany",
+        "participated": true
+    },
+    "fc_koln": {
+        "id": 11,
+        "name": "fc_koln",
+        "country": "Germany",
+        "participated": true
+    },
+    "hoffenheim": {
+        "id": 18,
+        "name": "hoffenheim",
+        "country": "Germany",
+        "participated": true
+    },
+    "hamburger_sv": {
+        "id": 14,
+        "name": "hamburger_sv",
+        "country": "Germany",
+        "participated": true
+    },
+    "eintracht_frankfurt": {
+        "id": 10,
+        "name": "eintracht_frankfurt",
+        "country": "Germany",
+        "participated": true
+    },
+    "union_berlin": {
+        "id": 28,
+        "name": "union_berlin",
+        "country": "Germany",
+        "participated": true
+    },
+    "dortmund": {
+        "id": 8,
+        "name": "dortmund",
+        "country": "Germany",
+        "participated": true
+    },
+    "freiburg": {
+        "id": 12,
+        "name": "freiburg",
+        "country": "Germany",
+        "participated": true
+    },
+    "hertha_berlin": {
+        "id": 17,
+        "name": "hertha_berlin",
+        "country": "Germany",
+        "participated": true
+    },
+    "arminia_bielefeld": {
+        "id": 0,
+        "name": "arminia_bielefeld",
+        "country": "Germany",
+        "participated": true
+    },
+    "greuther_furth": {
+        "id": 13,
+        "name": "greuther_furth",
+        "country": "Germany",
+        "participated": true
+    },
+    "b_monchengladbach": {
+        "id": 11,
+        "name": "b._monchengladbach",
+        "country": "Germany",
+        "participated": true
+    },
+    "mainz": {
+        "id": 21,
+        "name": "mainz",
+        "country": "Germany",
+        "participated": true
+    },
+    "augsburg": {
+        "id": 1,
+        "name": "augsburg",
+        "country": "Germany",
+        "participated": true
+    },
+    "bayer_leverkusen": {
+        "id": 3,
+        "name": "bayer_leverkusen",
+        "country": "Germany",
+        "participated": true
+    },
+    "stuttgart": {
+        "id": 27,
+        "name": "stuttgart",
+        "country": "Germany",
+        "participated": true
+    },
+    "bochum": {
+        "id": 5,
+        "name": "bochum",
+        "country": "Germany",
+        "participated": true
+    },
+    "wolfsburg": {
+        "id": 30,
+        "name": "wolfsburg",
+        "country": "Germany",
+        "participated": true
+    },
+    "rb_leipzig": {
+        "id": 24,
+        "name": "rb_leipzig",
+        "country": "Germany",
+        "participated": true
+    }
+}
