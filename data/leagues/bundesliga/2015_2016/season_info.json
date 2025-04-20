@@ -1,0 +1,11 @@
+{
+    "id": 0,
+    "name": "2015_2016",
+    "league_id": 0,
+    "start_date": "2015-01-11",
+    "end_date": "2016-12-03",
+    "status": "completed",
+    "num_teams": 19,
+    "total_matches": 308,
+    "rounds": 39
+}

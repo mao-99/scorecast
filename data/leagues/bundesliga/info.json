@@ -1,0 +1,164 @@
+{
+    "id": 0,
+    "name": "Bundesliga",
+    "country": "Germany",
+    "founded": null,
+    "num_teams": 31,
+    "teams": {
+        "arminia_bielefeld": {
+            "id": 0,
+            "full_name": "Arminia Bielefeld",
+            "short_name": "arminia_bielefeld"
+        },
+        "augsburg": {
+            "id": 1,
+            "full_name": "FC Augsburg",
+            "short_name": "augsburg"
+        },
+        "b._monchengladbach": {
+            "id": 2,
+            "full_name": "Borussia Monchengladbach",
+            "short_name": "b._monchengladbach"
+        },
+        "bayer_leverkusen": {
+            "id": 3,
+            "full_name": "Bayer Leverkusen",
+            "short_name": "bayer_leverkusen"
+        },
+        "bayern_munich": {
+            "id": 4,
+            "full_name": "Bayern Munich",
+            "short_name": "bayern_munich"
+        },
+        "bochum": {
+            "id": 5,
+            "full_name": "Bochum",
+            "short_name": "bochum"
+        },
+        "braunschweig": {
+            "id": 6,
+            "full_name": "Eintracht Braunschweig",
+            "short_name": "braunschweig"
+        },
+        "darmstadt": {
+            "id": 7,
+            "full_name": "SV Darmstadt 98",
+            "short_name": "darmstadt"
+        },
+        "dortmund": {
+            "id": 8,
+            "full_name": "Borussia Dortmund",
+            "short_name": "dortmund"
+        },
+        "dusseldorf": {
+            "id": 9,
+            "full_name": "Fortuna Dusseldorf",
+            "short_name": "dusseldorf"
+        },
+        "eintracht_frankfurt": {
+            "id": 10,
+            "full_name": "Eintracht Frankfurt",
+            "short_name": "eintracht_frankfurt"
+        },
+        "fc_koln": {
+            "id": 11,
+            "full_name": "1. FC K\u00f6ln",
+            "short_name": "fc_koln"
+        },
+        "freiburg": {
+            "id": 12,
+            "full_name": "SC Freiburg",
+            "short_name": "freiburg"
+        },
+        "greuther_furth": {
+            "id": 13,
+            "full_name": "SpVgg Greuther F\u00fcrth",
+            "short_name": "greuther_furth"
+        },
+        "hamburger_sv": {
+            "id": 14,
+            "full_name": "Hamburger SV",
+            "short_name": "hamburger_sv"
+        },
+        "hannover": {
+            "id": 15,
+            "full_name": "Hannover 96",
+            "short_name": "hannover"
+        },
+        "heidenheim": {
+            "id": 16,
+            "full_name": "Heidenheim",
+            "short_name": "heidenheim"
+        },
+        "hertha_berlin": {
+            "id": 17,
+            "full_name": "Hertha BSC",
+            "short_name": "hertha_berlin"
+        },
+        "hoffenheim": {
+            "id": 18,
+            "full_name": "TSG Hoffenheim",
+            "short_name": "hoffenheim"
+        },
+        "holstein_kiel": {
+            "id": 19,
+            "full_name": "Holstein Kiel",
+            "short_name": "holstein_kiel"
+        },
+        "ingolstadt": {
+            "id": 20,
+            "full_name": "FC Ingolstadt 04",
+            "short_name": "ingolstadt"
+        },
+        "mainz": {
+            "id": 21,
+            "full_name": "1. FSV Mainz 05",
+            "short_name": "mainz"
+        },
+        "nurnberg": {
+            "id": 22,
+            "full_name": "1. FC N\u00fcrnberg",
+            "short_name": "nurnberg"
+        },
+        "paderborn": {
+            "id": 23,
+            "full_name": "SC Paderborn 07",
+            "short_name": "paderborn"
+        },
+        "rb_leipzig": {
+            "id": 24,
+            "full_name": "RB Leipzig",
+            "short_name": "rb_leipzig"
+        },
+        "schalke": {
+            "id": 25,
+            "full_name": "FC Schalke 04",
+            "short_name": "schalke"
+        },
+        "st._pauli": {
+            "id": 26,
+            "full_name": "FC St. Pauli",
+            "short_name": "st._pauli"
+        },
+        "stuttgart": {
+            "id": 27,
+            "full_name": "VfB Stuttgart",
+            "short_name": "stuttgart"
+        },
+        "union_berlin": {
+            "id": 28,
+            "full_name": "Union Berlin",
+            "short_name": "union_berlin"
+        },
+        "werder_bremen": {
+            "id": 29,
+            "full_name": "Werder Bremen",
+            "short_name": "werder_bremen"
+        },
+        "wolfsburg": {
+            "id": 30,
+            "full_name": "VfL Wolfsburg",
+            "short_name": "wolfsburg"
+        }
+    }
+}

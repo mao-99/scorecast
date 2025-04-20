@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2021-05-29",
+        "time": "12:00",
+        "home_goals": 1,
+        "away_goals": 5,
+        "id": 0,
+        "season_id": 5,
+        "league_id": 0,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "Holstein Kiel",
+        "away_team_name": "1. FC K\u00f6ln",
+        "home_team_id": 19,
+        "away_team_id": 11
+    },
+    {
+        "date": "2021-05-26",
+        "time": "12:30",
+        "home_goals": 0,
+        "away_goals": 1,
+        "id": 1,
+        "season_id": 5,
+        "league_id": 0,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "1. FC K\u00f6ln",
+        "away_team_name": "Holstein Kiel",
+        "home_team_id": 11,
+        "away_team_id": 19
+    }
+]
