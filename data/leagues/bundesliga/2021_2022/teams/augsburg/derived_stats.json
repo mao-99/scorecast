@@ -5,6 +5,7 @@
     "round": 1,
     "date": "2021-08-14",
     "opponent_id": 18,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 0,
       "goals_scored": 0,
@@ -81,6 +82,7 @@
     "round": 2,
     "date": "2021-08-21",
     "opponent_id": 10,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 1,
       "goals_scored": 0,
@@ -172,6 +174,7 @@
     "round": 3,
     "date": "2021-08-28",
     "opponent_id": 3,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 2,
       "goals_scored": 0,
@@ -265,6 +268,7 @@
     "round": 4,
     "date": "2021-11-09",
     "opponent_id": 28,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 3,
       "goals_scored": 1,
@@ -358,6 +362,7 @@
     "round": 5,
     "date": "2021-09-18",
     "opponent_id": 2,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 4,
       "goals_scored": 1,
@@ -451,6 +456,7 @@
     "round": 6,
     "date": "2021-09-26",
     "opponent_id": 12,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 5,
       "goals_scored": 2,
@@ -544,6 +550,7 @@
     "round": 7,
     "date": "2021-02-10",
     "opponent_id": 8,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 6,
       "goals_scored": 2,
@@ -637,6 +644,7 @@
     "round": 8,
     "date": "2021-10-17",
     "opponent_id": 0,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 7,
       "goals_scored": 3,
@@ -730,6 +738,7 @@
     "round": 9,
     "date": "2021-10-22",
     "opponent_id": 21,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 8,
       "goals_scored": 4,
@@ -823,6 +832,7 @@
     "round": 10,
     "date": "2021-10-31",
     "opponent_id": 27,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 9,
       "goals_scored": 5,
@@ -916,6 +926,7 @@
     "round": 11,
     "date": "2021-06-11",
     "opponent_id": 30,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 10,
       "goals_scored": 9,
@@ -1009,6 +1020,7 @@
     "round": 12,
     "date": "2021-11-19",
     "opponent_id": 4,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 11,
       "goals_scored": 9,
@@ -1102,6 +1114,7 @@
     "round": 13,
     "date": "2021-11-27",
     "opponent_id": 17,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 12,
       "goals_scored": 11,
@@ -1195,6 +1208,7 @@
     "round": 14,
     "date": "2021-04-12",
     "opponent_id": 5,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 13,
       "goals_scored": 12,
@@ -1288,6 +1302,7 @@
     "round": 15,
     "date": "2021-10-12",
     "opponent_id": 11,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 14,
       "goals_scored": 14,
@@ -1381,6 +1396,7 @@
     "round": 16,
     "date": "2021-12-15",
     "opponent_id": 24,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 15,
       "goals_scored": 16,
@@ -1474,6 +1490,7 @@
     "round": 17,
     "date": "2021-12-18",
     "opponent_id": 13,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 16,
       "goals_scored": 17,
@@ -1567,6 +1584,7 @@
     "round": 18,
     "date": "2022-08-01",
     "opponent_id": 18,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 17,
       "goals_scored": 17,
@@ -1660,6 +1678,7 @@
     "round": 19,
     "date": "2022-01-16",
     "opponent_id": 10,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 18,
       "goals_scored": 18,
@@ -1753,6 +1772,7 @@
     "round": 20,
     "date": "2022-01-22",
     "opponent_id": 3,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 19,
       "goals_scored": 19,
@@ -1846,6 +1866,7 @@
     "round": 21,
     "date": "2022-05-02",
     "opponent_id": 28,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 20,
       "goals_scored": 20,
@@ -1939,6 +1960,7 @@
     "round": 22,
     "date": "2022-12-02",
     "opponent_id": 2,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 21,
       "goals_scored": 22,
@@ -2032,6 +2054,7 @@
     "round": 23,
     "date": "2022-02-19",
     "opponent_id": 12,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 22,
       "goals_scored": 24,
@@ -2125,6 +2148,7 @@
     "round": 24,
     "date": "2022-02-27",
     "opponent_id": 8,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 23,
       "goals_scored": 25,
@@ -2218,6 +2242,7 @@
     "round": 25,
     "date": "2022-04-03",
     "opponent_id": 0,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 24,
       "goals_scored": 26,
@@ -2311,6 +2336,7 @@
     "round": 26,
     "date": "2022-06-04",
     "opponent_id": 21,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 25,
       "goals_scored": 27,
@@ -2404,6 +2430,7 @@
     "round": 27,
     "date": "2022-03-19",
     "opponent_id": 27,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 26,
       "goals_scored": 29,
@@ -2497,6 +2524,7 @@
     "round": 28,
     "date": "2022-03-04",
     "opponent_id": 30,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 27,
       "goals_scored": 31,
@@ -2590,6 +2618,7 @@
     "round": 29,
     "date": "2022-09-04",
     "opponent_id": 4,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 28,
       "goals_scored": 34,
@@ -2683,6 +2712,7 @@
     "round": 30,
     "date": "2022-04-16",
     "opponent_id": 17,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 29,
       "goals_scored": 34,
@@ -2776,6 +2806,7 @@
     "round": 31,
     "date": "2022-04-24",
     "opponent_id": 5,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 30,
       "goals_scored": 34,
@@ -2869,6 +2900,7 @@
     "round": 32,
     "date": "2022-04-30",
     "opponent_id": 11,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 31,
       "goals_scored": 36,
@@ -2962,6 +2994,7 @@
     "round": 33,
     "date": "2022-08-05",
     "opponent_id": 24,
+    "home_advantage": false,
     "predictive_cumulative": {
       "matches_played": 32,
       "goals_scored": 37,
@@ -3055,6 +3088,7 @@
     "round": 34,
     "date": "2022-05-14",
     "opponent_id": 13,
+    "home_advantage": true,
     "predictive_cumulative": {
       "matches_played": 33,
       "goals_scored": 37,
