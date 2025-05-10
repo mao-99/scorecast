@@ -1,0 +1,122 @@
+{
+    "chelsea": {
+        "id": 7,
+        "name": "chelsea",
+        "country": "England",
+        "participated": true
+    },
+    "crystal_palace": {
+        "id": 8,
+        "name": "crystal_palace",
+        "country": "England",
+        "participated": true
+    },
+    "aston_villa": {
+        "id": 1,
+        "name": "aston_villa",
+        "country": "England",
+        "participated": true
+    },
+    "wolves": {
+        "id": 33,
+        "name": "wolves",
+        "country": "England",
+        "participated": true
+    },
+    "brentford": {
+        "id": 3,
+        "name": "brentford",
+        "country": "England",
+        "participated": true
+    },
+    "newcastle": {
+        "id": 21,
+        "name": "newcastle",
+        "country": "England",
+        "participated": true
+    },
+    "leicester": {
+        "id": 15,
+        "name": "leicester",
+        "country": "England",
+        "participated": true
+    },
+    "west_ham": {
+        "id": 32,
+        "name": "west_ham",
+        "country": "England",
+        "participated": true
+    },
+    "brighton": {
+        "id": 4,
+        "name": "brighton",
+        "country": "England",
+        "participated": true
+    },
+    "norwich": {
+        "id": 22,
+        "name": "norwich",
+        "country": "England",
+        "participated": true
+    },
+    "watford": {
+        "id": 30,
+        "name": "watford",
+        "country": "England",
+        "participated": true
+    },
+    "tottenham": {
+        "id": 29,
+        "name": "tottenham",
+        "country": "England",
+        "participated": true
+    },
+    "leeds": {
+        "id": 14,
+        "name": "leeds",
+        "country": "England",
+        "participated": true
+    },
+    "manchester_city": {
+        "id": 18,
+        "name": "manchester_city",
+        "country": "England",
+        "participated": true
+    },
+    "southampton": {
+        "id": 25,
+        "name": "southampton",
+        "country": "England",
+        "participated": true
+    },
+    "liverpool": {
+        "id": 16,
+        "name": "liverpool",
+        "country": "England",
+        "participated": true
+    },
+    "arsenal": {
+        "id": 0,
+        "name": "arsenal",
+        "country": "England",
+        "participated": true
+    },
+    "manchester_utd": {
+        "id": 19,
+        "name": "manchester_utd",
+        "country": "England",
+        "participated": true
+    },
+    "burnley": {
+        "id": 5,
+        "name": "burnley",
+        "country": "England",
+        "participated": true
+    },
+    "everton": {
+        "id": 9,
+        "name": "everton",
+        "country": "England",
+        "participated": true
+    }
+}

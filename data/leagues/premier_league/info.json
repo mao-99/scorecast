@@ -1,0 +1,179 @@
+{
+    "id": 1,
+    "name": "Premier League",
+    "country": "England",
+    "founded": null,
+    "num_teams": 34,
+    "teams": {
+        "arsenal": {
+            "id": 0,
+            "full_name": "Arsenal",
+            "short_name": "arsenal"
+        },
+        "aston_villa": {
+            "id": 1,
+            "full_name": "Aston Villa",
+            "short_name": "aston_villa"
+        },
+        "bournemouth": {
+            "id": 2,
+            "full_name": "AFC Bournemouth",
+            "short_name": "bournemouth"
+        },
+        "brentford": {
+            "id": 3,
+            "full_name": "Brentford",
+            "short_name": "brentford"
+        },
+        "brighton": {
+            "id": 4,
+            "full_name": "Brighton & Hove Albion",
+            "short_name": "brighton"
+        },
+        "burnley": {
+            "id": 5,
+            "full_name": "Burnley",
+            "short_name": "burnley"
+        },
+        "cardiff": {
+            "id": 6,
+            "full_name": "Cardiff City",
+            "short_name": "cardiff"
+        },
+        "chelsea": {
+            "id": 7,
+            "full_name": "Chelsea",
+            "short_name": "chelsea"
+        },
+        "crystal_palace": {
+            "id": 8,
+            "full_name": "Crystal Palace",
+            "short_name": "crystal_palace"
+        },
+        "everton": {
+            "id": 9,
+            "full_name": "Everton",
+            "short_name": "everton"
+        },
+        "fulham": {
+            "id": 10,
+            "full_name": "Fulham",
+            "short_name": "fulham"
+        },
+        "huddersfield": {
+            "id": 11,
+            "full_name": "Huddersfield Town",
+            "short_name": "huddersfield"
+        },
+        "hull": {
+            "id": 12,
+            "full_name": "Hull City",
+            "short_name": "hull"
+        },
+        "ipswich": {
+            "id": 13,
+            "full_name": "Ipswich Town",
+            "short_name": "ipswich"
+        },
+        "leeds": {
+            "id": 14,
+            "full_name": "Leeds United",
+            "short_name": "leeds"
+        },
+        "leicester": {
+            "id": 15,
+            "full_name": "Leicester City",
+            "short_name": "leicester"
+        },
+        "liverpool": {
+            "id": 16,
+            "full_name": "Liverpool",
+            "short_name": "liverpool"
+        },
+        "luton": {
+            "id": 17,
+            "full_name": "Luton Town",
+            "short_name": "luton"
+        },
+        "manchester_city": {
+            "id": 18,
+            "full_name": "Manchester City",
+            "short_name": "manchester_city"
+        },
+        "manchester_utd": {
+            "id": 19,
+            "full_name": "Manchester United",
+            "short_name": "manchester_utd"
+        },
+        "middlesbrough": {
+            "id": 20,
+            "full_name": "Middlesbrough",
+            "short_name": "middlesbrough"
+        },
+        "newcastle": {
+            "id": 21,
+            "full_name": "Newcastle United",
+            "short_name": "newcastle"
+        },
+        "norwich": {
+            "id": 22,
+            "full_name": "Norwich City",
+            "short_name": "norwich"
+        },
+        "nottingham": {
+            "id": 23,
+            "full_name": "Nottingham Forest",
+            "short_name": "nottingham"
+        },
+        "sheffield_utd": {
+            "id": 24,
+            "full_name": "Sheffield United",
+            "short_name": "sheffield_utd"
+        },
+        "southampton": {
+            "id": 25,
+            "full_name": "Southampton",
+            "short_name": "southampton"
+        },
+        "stoke": {
+            "id": 26,
+            "full_name": "Stoke City",
+            "short_name": "stoke"
+        },
+        "sunderland": {
+            "id": 27,
+            "full_name": "Sunderland",
+            "short_name": "sunderland"
+        },
+        "swansea": {
+            "id": 28,
+            "full_name": "Swansea City",
+            "short_name": "swansea"
+        },
+        "tottenham": {
+            "id": 29,
+            "full_name": "Tottenham Hotspur",
+            "short_name": "tottenham"
+        },
+        "watford": {
+            "id": 30,
+            "full_name": "Watford",
+            "short_name": "watford"
+        },
+        "west_brom": {
+            "id": 31,
+            "full_name": "West Bromwich Albion",
+            "short_name": "west_brom"
+        },
+        "west_ham": {
+            "id": 32,
+            "full_name": "West Ham United",
+            "short_name": "west_ham"
+        },
+        "wolves": {
+            "id": 33,
+            "full_name": "Wolverhampton Wanderers",
+            "short_name": "wolves"
+        }
+    }
+}
