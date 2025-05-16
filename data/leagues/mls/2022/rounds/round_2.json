@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2022-10-08",
+        "time": "20:30",
+        "home_goals": 2,
+        "away_goals": 1,
+        "id": 0,
+        "season_id": 6,
+        "league_id": 5,
+        "round": 2,
+        "result": 1,
+        "home_team_name": "MLS All-Stars",
+        "away_team_name": "Liga MX All-Stars",
+        "home_team_id": 16,
+        "away_team_id": 12
+    }
+]

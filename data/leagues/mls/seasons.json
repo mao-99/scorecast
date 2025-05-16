@@ -1,0 +1,56 @@
+{
+    "2016": {
+        "id": 0,
+        "name": "2016",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2017": {
+        "id": 1,
+        "name": "2017",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2018": {
+        "id": 2,
+        "name": "2018",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2019": {
+        "id": 3,
+        "name": "2019",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2020": {
+        "id": 4,
+        "name": "2020",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2021": {
+        "id": 5,
+        "name": "2021",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2022": {
+        "id": 6,
+        "name": "2022",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2023": {
+        "id": 7,
+        "name": "2023",
+        "league_id": 5,
+        "status": "completed"
+    },
+    "2024": {
+        "id": 8,
+        "name": "2024",
+        "league_id": 5,
+        "status": "completed"
+    }
+}

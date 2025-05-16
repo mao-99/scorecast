@@ -1,0 +1,81 @@
+[
+  {
+    "id": "11_67",
+    "team_match_id": 67,
+    "round": 1,
+    "date": "2022-10-17",
+    "opponent_id": 19,
+    "home_advantage": false,
+    "predictive_cumulative": {
+      "matches_played": 0,
+      "goals_scored": 0,
+      "goals_conceded": 0,
+      "goal_attempts": 0,
+      "shots_on_goal": 0,
+      "shots_off_goal": 0,
+      "blocked_shots": 0,
+      "passes_attempted": 0,
+      "passes_completed": 0,
+      "final_third_passes_attempted": 0,
+      "final_third_passes_completed": 0,
+      "tackles_attempted": 0,
+      "tackles_won": 0,
+      "clearances": 0,
+      "interceptions": 0,
+      "corner_kicks": 0,
+      "fouls": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "possession_total": 0
+    },
+    "predictive": {},
+    "visualization_cumulative": {
+      "matches_played": 1,
+      "goals_scored": 0,
+      "goals_conceded": 3,
+      "goal_attempts": 12,
+      "shots_on_goal": 4,
+      "shots_off_goal": 5,
+      "blocked_shots": 3,
+      "passes_attempted": 426,
+      "passes_completed": 344,
+      "final_third_passes_attempted": 0,
+      "final_third_passes_completed": 0,
+      "tackles_attempted": 0,
+      "tackles_won": 0,
+      "clearances": 0,
+      "interceptions": 0,
+      "corner_kicks": 6,
+      "fouls": 12,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "possession_total": 0.48
+    },
+    "visualization": {
+      "goals_rolling_avg": 0.0,
+      "conceded_goals_rolling_avg": 3.0,
+      "shots_rolling_avg": 12.0,
+      "shots_on_goal_rolling_avg": 4.0,
+      "shot_accuracy": 0.3333333333333333,
+      "conversion_rate": 0.0,
+      "possession_avg": 0.48,
+      "team_form": 1,
+      "team_form_components": {
+        "results_component": 0.0,
+        "goals_component": 0.0,
+        "shots_component": 0.06249999999999999,
+        "defense_component": 0.22499999999999998,
+        "possession_component": 0.33187500000000003
+      }
+    },
+    "match_metrics": {
+      "target_ratio": 0.3333333333333333,
+      "conversion_ratio": 0.0,
+      "target_to_goal_ratio": 0.0,
+      "defensive_action_rate": 0,
+      "possession_efficiency": 0.25,
+      "possession_to_goals": 0.0,
+      "pass_accuracy": 0.8075117370892019
+    }
+  }
+]

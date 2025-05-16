@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2018-05-27",
+        "time": "15:00",
+        "home_goals": 1,
+        "away_goals": 0,
+        "id": 0,
+        "season_id": 2,
+        "league_id": 4,
+        "round": 39,
+        "result": 1,
+        "home_team_name": "Toulouse FC",
+        "away_team_name": "AC Ajaccio",
+        "home_team_id": 34,
+        "away_team_id": 0
+    },
+    {
+        "date": "2018-05-23",
+        "time": "14:45",
+        "home_goals": 0,
+        "away_goals": 3,
+        "id": 1,
+        "season_id": 2,
+        "league_id": 4,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "AC Ajaccio",
+        "away_team_name": "Toulouse FC",
+        "home_team_id": 0,
+        "away_team_id": 34
+    },
+    {
+        "date": "2018-05-20",
+        "time": "13:00",
+        "home_goals": 3,
+        "away_goals": 2,
+        "id": 2,
+        "season_id": 2,
+        "league_id": 4,
+        "round": 39,
+        "result": 1,
+        "home_team_name": "AC Ajaccio",
+        "away_team_name": "Le Havre AC",
+        "home_team_id": 0,
+        "away_team_id": 13
+    },
+    {
+        "date": "2018-05-15",
+        "time": "14:45",
+        "home_goals": 2,
+        "away_goals": 0,
+        "id": 3,
+        "season_id": 2,
+        "league_id": 4,
+        "round": 39,
+        "result": 1,
+        "home_team_name": "Le Havre AC",
+        "away_team_name": "Stade Brestois 29",
+        "home_team_id": 13,
+        "away_team_id": 6
+    }
+]

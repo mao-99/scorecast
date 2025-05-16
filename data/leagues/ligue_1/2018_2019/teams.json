@@ -1,0 +1,140 @@
+{
+    "reims": {
+        "id": 28,
+        "name": "reims",
+        "country": "France",
+        "participated": true
+    },
+    "caen": {
+        "id": 7,
+        "name": "caen",
+        "country": "France",
+        "participated": true
+    },
+    "amiens": {
+        "id": 1,
+        "name": "amiens",
+        "country": "France",
+        "participated": true
+    },
+    "lille": {
+        "id": 15,
+        "name": "lille",
+        "country": "France",
+        "participated": true
+    },
+    "toulouse": {
+        "id": 34,
+        "name": "toulouse",
+        "country": "France",
+        "participated": true
+    },
+    "dijon": {
+        "id": 9,
+        "name": "dijon",
+        "country": "France",
+        "participated": true
+    },
+    "guingamp": {
+        "id": 12,
+        "name": "guingamp",
+        "country": "France",
+        "participated": true
+    },
+    "lens": {
+        "id": 14,
+        "name": "lens",
+        "country": "France",
+        "participated": true
+    },
+    "strasbourg": {
+        "id": 33,
+        "name": "strasbourg",
+        "country": "France",
+        "participated": true
+    },
+    "st_etienne": {
+        "id": 32,
+        "name": "st_etienne",
+        "country": "France",
+        "participated": true
+    },
+    "montpellier": {
+        "id": 21,
+        "name": "montpellier",
+        "country": "France",
+        "participated": true
+    },
+    "lyon": {
+        "id": 17,
+        "name": "lyon",
+        "country": "France",
+        "participated": true
+    },
+    "marseille": {
+        "id": 18,
+        "name": "marseille",
+        "country": "France",
+        "participated": true
+    },
+    "paris_fc": {
+        "id": 26,
+        "name": "paris_fc",
+        "country": "France",
+        "participated": true
+    },
+    "psg": {
+        "id": 27,
+        "name": "psg",
+        "country": "France",
+        "participated": true
+    },
+    "rennes": {
+        "id": 29,
+        "name": "rennes",
+        "country": "France",
+        "participated": true
+    },
+    "bordeaux": {
+        "id": 5,
+        "name": "bordeaux",
+        "country": "France",
+        "participated": true
+    },
+    "nantes": {
+        "id": 23,
+        "name": "nantes",
+        "country": "France",
+        "participated": true
+    },
+    "troyes": {
+        "id": 35,
+        "name": "troyes",
+        "country": "France",
+        "participated": true
+    },
+    "angers": {
+        "id": 2,
+        "name": "angers",
+        "country": "France",
+        "participated": true
+    },
+    "nimes": {
+        "id": 25,
+        "name": "nimes",
+        "country": "France",
+        "participated": true
+    },
+    "nice": {
+        "id": 24,
+        "name": "nice",
+        "country": "France",
+        "participated": true
+    },
+    "monaco": {
+        "id": 20,
+        "name": "monaco",
+        "country": "France",
+        "participated": true
+    }
+}

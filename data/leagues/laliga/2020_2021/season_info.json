@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "name": "2020_2021",
+    "league_id": 3,
+    "start_date": "2020-01-10",
+    "end_date": "2021-12-05",
+    "status": "completed",
+    "num_teams": 20,
+    "total_matches": 380,
+    "rounds": 38
+}

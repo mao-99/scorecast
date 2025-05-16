@@ -1,0 +1,154 @@
+{
+    "id": 3,
+    "name": "Laliga",
+    "country": "Spain",
+    "founded": null,
+    "num_teams": 29,
+    "teams": {
+        "alaves": {
+            "id": 0,
+            "full_name": "Deportivo Alav\u00e9s",
+            "short_name": "alaves"
+        },
+        "almeria": {
+            "id": 1,
+            "full_name": "UD Almer\u00eda",
+            "short_name": "almeria"
+        },
+        "ath_bilbao": {
+            "id": 2,
+            "full_name": "Athletic Club",
+            "short_name": "ath_bilbao"
+        },
+        "atl._madrid": {
+            "id": 3,
+            "full_name": "Atl\u00e9tico de Madrid",
+            "short_name": "atl._madrid"
+        },
+        "barcelona": {
+            "id": 4,
+            "full_name": "FC Barcelona",
+            "short_name": "barcelona"
+        },
+        "betis": {
+            "id": 5,
+            "full_name": "Real Betis Balompi\u00e9",
+            "short_name": "betis"
+        },
+        "cadiz_cf": {
+            "id": 6,
+            "full_name": "C\u00e1diz CF",
+            "short_name": "cadiz_cf"
+        },
+        "celta_vigo": {
+            "id": 7,
+            "full_name": "RC Celta de Vigo",
+            "short_name": "celta_vigo"
+        },
+        "dep._la_coruna": {
+            "id": 8,
+            "full_name": "RC Deportivo La Coru\u00f1a",
+            "short_name": "dep._la_coruna"
+        },
+        "eibar": {
+            "id": 9,
+            "full_name": "SD Eibar",
+            "short_name": "eibar"
+        },
+        "elche": {
+            "id": 10,
+            "full_name": "Elche CF",
+            "short_name": "elche"
+        },
+        "espanyol": {
+            "id": 11,
+            "full_name": "RCD Espanyol",
+            "short_name": "espanyol"
+        },
+        "getafe": {
+            "id": 12,
+            "full_name": "Getafe CF",
+            "short_name": "getafe"
+        },
+        "girona": {
+            "id": 13,
+            "full_name": "Girona FC",
+            "short_name": "girona"
+        },
+        "granada_cf": {
+            "id": 14,
+            "full_name": "Granada CF",
+            "short_name": "granada_cf"
+        },
+        "huesca": {
+            "id": 15,
+            "full_name": "SD Huesca",
+            "short_name": "huesca"
+        },
+        "las_palmas": {
+            "id": 16,
+            "full_name": "UD Las Palmas",
+            "short_name": "las_palmas"
+        },
+        "leganes": {
+            "id": 17,
+            "full_name": "CD Legan\u00e9s",
+            "short_name": "leganes"
+        },
+        "levante": {
+            "id": 18,
+            "full_name": "Levante UD",
+            "short_name": "levante"
+        },
+        "malaga": {
+            "id": 19,
+            "full_name": "M\u00e1laga CF",
+            "short_name": "malaga"
+        },
+        "mallorca": {
+            "id": 20,
+            "full_name": "RCD Mallorca",
+            "short_name": "mallorca"
+        },
+        "osasuna": {
+            "id": 21,
+            "full_name": "CA Osasuna",
+            "short_name": "osasuna"
+        },
+        "rayo_vallecano": {
+            "id": 22,
+            "full_name": "Rayo Vallecano",
+            "short_name": "rayo_vallecano"
+        },
+        "real_madrid": {
+            "id": 23,
+            "full_name": "Real Madrid CF",
+            "short_name": "real_madrid"
+        },
+        "real_sociedad": {
+            "id": 24,
+            "full_name": "Real Sociedad",
+            "short_name": "real_sociedad"
+        },
+        "sevilla": {
+            "id": 25,
+            "full_name": "Sevilla FC",
+            "short_name": "sevilla"
+        },
+        "valencia": {
+            "id": 26,
+            "full_name": "Valencia CF",
+            "short_name": "valencia"
+        },
+        "valladolid": {
+            "id": 27,
+            "full_name": "Real Valladolid CF",
+            "short_name": "valladolid"
+        },
+        "villarreal": {
+            "id": 28,
+            "full_name": "Villarreal CF",
+            "short_name": "villarreal"
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "id": 2,
+    "name": "Serie A",
+    "country": "Italy",
+    "founded": null,
+    "num_teams": 31,
+    "teams": {
+        "ac_milan": {
+            "id": 0,
+            "full_name": "AC Milan",
+            "short_name": "ac_milan"
+        },
+        "as_roma": {
+            "id": 1,
+            "full_name": "AS Roma",
+            "short_name": "as_roma"
+        },
+        "atalanta": {
+            "id": 2,
+            "full_name": "Atalanta BC",
+            "short_name": "atalanta"
+        },
+        "benevento": {
+            "id": 3,
+            "full_name": "Benevento Calcio",
+            "short_name": "benevento"
+        },
+        "bologna": {
+            "id": 4,
+            "full_name": "Bologna FC",
+            "short_name": "bologna"
+        },
+        "brescia": {
+            "id": 5,
+            "full_name": "Brescia Calcio",
+            "short_name": "brescia"
+        },
+        "cagliari": {
+            "id": 6,
+            "full_name": "Cagliari Calcio",
+            "short_name": "cagliari"
+        },
+        "chievo": {
+            "id": 7,
+            "full_name": "AC ChievoVerona",
+            "short_name": "chievo"
+        },
+        "como": {
+            "id": 8,
+            "full_name": "Como 1907",
+            "short_name": "como"
+        },
+        "cremonese": {
+            "id": 9,
+            "full_name": "US Cremonese",
+            "short_name": "cremonese"
+        },
+        "crotone": {
+            "id": 10,
+            "full_name": "FC Crotone",
+            "short_name": "crotone"
+        },
+        "empoli": {
+            "id": 11,
+            "full_name": "Empoli FC",
+            "short_name": "empoli"
+        },
+        "fiorentina": {
+            "id": 12,
+            "full_name": "ACF Fiorentina",
+            "short_name": "fiorentina"
+        },
+        "frosinone": {
+            "id": 13,
+            "full_name": "Frosinone Calcio",
+            "short_name": "frosinone"
+        },
+        "genoa": {
+            "id": 14,
+            "full_name": "Genoa CFC",
+            "short_name": "genoa"
+        },
+        "inter": {
+            "id": 15,
+            "full_name": "FC Internazionale Milano",
+            "short_name": "inter"
+        },
+        "juventus": {
+            "id": 16,
+            "full_name": "Juventus FC",
+            "short_name": "juventus"
+        },
+        "lazio": {
+            "id": 17,
+            "full_name": "SS Lazio",
+            "short_name": "lazio"
+        },
+        "lecce": {
+            "id": 18,
+            "full_name": "US Lecce",
+            "short_name": "lecce"
+        },
+        "monza": {
+            "id": 19,
+            "full_name": "AC Monza",
+            "short_name": "monza"
+        },
+        "napoli": {
+            "id": 20,
+            "full_name": "SSC Napoli",
+            "short_name": "napoli"
+        },
+        "parma": {
+            "id": 21,
+            "full_name": "Parma Calcio 1913",
+            "short_name": "parma"
+        },
+        "salernitana": {
+            "id": 22,
+            "full_name": "US Salernitana 1919",
+            "short_name": "salernitana"
+        },
+        "sampdoria": {
+            "id": 23,
+            "full_name": "UC Sampdoria",
+            "short_name": "sampdoria"
+        },
+        "sassuolo": {
+            "id": 24,
+            "full_name": "US Sassuolo Calcio",
+            "short_name": "sassuolo"
+        },
+        "spal": {
+            "id": 25,
+            "full_name": "SPAL",
+            "short_name": "spal"
+        },
+        "spezia": {
+            "id": 26,
+            "full_name": "Spezia Calcio",
+            "short_name": "spezia"
+        },
+        "torino": {
+            "id": 27,
+            "full_name": "Torino FC",
+            "short_name": "torino"
+        },
+        "udinese": {
+            "id": 28,
+            "full_name": "Udinese Calcio",
+            "short_name": "udinese"
+        },
+        "venezia": {
+            "id": 29,
+            "full_name": "Venezia FC",
+            "short_name": "venezia"
+        },
+        "verona": {
+            "id": 30,
+            "full_name": "Hellas Verona FC",
+            "short_name": "verona"
+        }
+    }
+}
