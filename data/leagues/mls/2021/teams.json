@@ -1,0 +1,98 @@
+{
+    "sporting_kansas_city": {
+        "id": 27,
+        "name": "sporting_kansas_city",
+        "country": "United States",
+        "participated": true
+    },
+    "new_york_city": {
+        "id": 19,
+        "name": "new_york_city",
+        "country": "United States",
+        "participated": true
+    },
+    "new_england_revolution": {
+        "id": 18,
+        "name": "new_england_revolution",
+        "country": "United States",
+        "participated": true
+    },
+    "real_salt_lake": {
+        "id": 24,
+        "name": "real_salt_lake",
+        "country": "United States",
+        "participated": true
+    },
+    "colorado_rapids": {
+        "id": 5,
+        "name": "colorado_rapids",
+        "country": "United States",
+        "participated": true
+    },
+    "liga_mx_all-stars": {
+        "id": 12,
+        "name": "liga_mx_all-stars",
+        "country": "United States",
+        "participated": true
+    },
+    "vancouver_whitecaps": {
+        "id": 30,
+        "name": "vancouver_whitecaps",
+        "country": "United States",
+        "participated": true
+    },
+    "minnesota_united": {
+        "id": 15,
+        "name": "minnesota_united",
+        "country": "United States",
+        "participated": true
+    },
+    "atlanta_utd": {
+        "id": 0,
+        "name": "atlanta_utd",
+        "country": "United States",
+        "participated": true
+    },
+    "philadelphia_union": {
+        "id": 22,
+        "name": "philadelphia_union",
+        "country": "United States",
+        "participated": true
+    },
+    "seattle_sounders": {
+        "id": 26,
+        "name": "seattle_sounders",
+        "country": "United States",
+        "participated": true
+    },
+    "nashville_sc": {
+        "id": 17,
+        "name": "nashville_sc",
+        "country": "United States",
+        "participated": true
+    },
+    "mls_all-stars": {
+        "id": 16,
+        "name": "mls_all-stars",
+        "country": "United States",
+        "participated": true
+    },
+    "portland_timbers": {
+        "id": 23,
+        "name": "portland_timbers",
+        "country": "United States",
+        "participated": true
+    },
+    "orlando_city": {
+        "id": 21,
+        "name": "orlando_city",
+        "country": "United States",
+        "participated": true
+    },
+    "new_york_red_bulls": {
+        "id": 20,
+        "name": "new_york_red_bulls",
+        "country": "United States",
+        "participated": true
+    }
+}

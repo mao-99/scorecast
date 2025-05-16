@@ -1,0 +1,122 @@
+{
+    "real_sociedad": {
+        "id": 24,
+        "name": "real_sociedad",
+        "country": "Spain",
+        "participated": true
+    },
+    "rayo_vallecano": {
+        "id": 22,
+        "name": "rayo_vallecano",
+        "country": "Spain",
+        "participated": true
+    },
+    "getafe": {
+        "id": 12,
+        "name": "getafe",
+        "country": "Spain",
+        "participated": true
+    },
+    "ath_bilbao": {
+        "id": 2,
+        "name": "ath_bilbao",
+        "country": "Spain",
+        "participated": true
+    },
+    "valladolid": {
+        "id": 27,
+        "name": "valladolid",
+        "country": "Spain",
+        "participated": true
+    },
+    "espanyol": {
+        "id": 11,
+        "name": "espanyol",
+        "country": "Spain",
+        "participated": true
+    },
+    "betis": {
+        "id": 5,
+        "name": "betis",
+        "country": "Spain",
+        "participated": true
+    },
+    "barcelona": {
+        "id": 4,
+        "name": "barcelona",
+        "country": "Spain",
+        "participated": true
+    },
+    "leganes": {
+        "id": 17,
+        "name": "leganes",
+        "country": "Spain",
+        "participated": true
+    },
+    "atl_madrid": {
+        "id": 9,
+        "name": "atl._madrid",
+        "country": "Spain",
+        "participated": true
+    },
+    "eibar": {
+        "id": 9,
+        "name": "eibar",
+        "country": "Spain",
+        "participated": true
+    },
+    "villarreal": {
+        "id": 28,
+        "name": "villarreal",
+        "country": "Spain",
+        "participated": true
+    },
+    "real_madrid": {
+        "id": 23,
+        "name": "real_madrid",
+        "country": "Spain",
+        "participated": true
+    },
+    "celta_vigo": {
+        "id": 7,
+        "name": "celta_vigo",
+        "country": "Spain",
+        "participated": true
+    },
+    "levante": {
+        "id": 18,
+        "name": "levante",
+        "country": "Spain",
+        "participated": true
+    },
+    "huesca": {
+        "id": 15,
+        "name": "huesca",
+        "country": "Spain",
+        "participated": true
+    },
+    "sevilla": {
+        "id": 25,
+        "name": "sevilla",
+        "country": "Spain",
+        "participated": true
+    },
+    "girona": {
+        "id": 13,
+        "name": "girona",
+        "country": "Spain",
+        "participated": true
+    },
+    "valencia": {
+        "id": 26,
+        "name": "valencia",
+        "country": "Spain",
+        "participated": true
+    },
+    "alaves": {
+        "id": 0,
+        "name": "alaves",
+        "country": "Spain",
+        "participated": true
+    }
+}

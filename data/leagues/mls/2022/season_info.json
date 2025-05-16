@@ -1,0 +1,11 @@
+{
+    "id": 6,
+    "name": "2022",
+    "league_id": 5,
+    "start_date": "2022-05-11",
+    "end_date": "2022-10-30",
+    "status": "completed",
+    "num_teams": 16,
+    "total_matches": 14,
+    "rounds": 2
+}

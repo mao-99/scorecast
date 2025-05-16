@@ -1,1 +1,1 @@
-{"bundesliga": {"id": 0, "name": "bundesliga", "country": "Germany"}, "premier_league": {"id": 1, "name": "premier_league", "country": "England"}}
+{"bundesliga": {"id": 0, "name": "bundesliga", "country": "Germany"}, "premier_league": {"id": 1, "name": "premier_league", "country": "England"}, "serie_a": {"id": 2, "name": "serie_a", "country": "Italy"}, "laliga": {"id": 3, "name": "laliga", "country": "Spain"}, "ligue_1": {"id": 4, "name": "ligue_1", "country": "France"}, "mls": {"id": 5, "name": "mls", "country": "United States"}}

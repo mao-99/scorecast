@@ -1,0 +1,86 @@
+{
+    "new_york_city": {
+        "id": 19,
+        "name": "new_york_city",
+        "country": "United States",
+        "participated": true
+    },
+    "real_salt_lake": {
+        "id": 24,
+        "name": "real_salt_lake",
+        "country": "United States",
+        "participated": true
+    },
+    "new_england_revolution": {
+        "id": 18,
+        "name": "new_england_revolution",
+        "country": "United States",
+        "participated": true
+    },
+    "fc_dallas": {
+        "id": 9,
+        "name": "fc_dallas",
+        "country": "United States",
+        "participated": true
+    },
+    "minnesota_united": {
+        "id": 15,
+        "name": "minnesota_united",
+        "country": "United States",
+        "participated": true
+    },
+    "atlanta_utd": {
+        "id": 0,
+        "name": "atlanta_utd",
+        "country": "United States",
+        "participated": true
+    },
+    "seattle_sounders": {
+        "id": 26,
+        "name": "seattle_sounders",
+        "country": "United States",
+        "participated": true
+    },
+    "los_angeles_fc": {
+        "id": 13,
+        "name": "los_angeles_fc",
+        "country": "United States",
+        "participated": true
+    },
+    "philadelphia_union": {
+        "id": 22,
+        "name": "philadelphia_union",
+        "country": "United States",
+        "participated": true
+    },
+    "los_angeles_galaxy": {
+        "id": 14,
+        "name": "los_angeles_galaxy",
+        "country": "United States",
+        "participated": true
+    },
+    "portland_timbers": {
+        "id": 23,
+        "name": "portland_timbers",
+        "country": "United States",
+        "participated": true
+    },
+    "toronto_fc": {
+        "id": 29,
+        "name": "toronto_fc",
+        "country": "United States",
+        "participated": true
+    },
+    "dc_united": {
+        "id": 7,
+        "name": "dc_united",
+        "country": "United States",
+        "participated": true
+    },
+    "new_york_red_bulls": {
+        "id": 20,
+        "name": "new_york_red_bulls",
+        "country": "United States",
+        "participated": true
+    }
+}

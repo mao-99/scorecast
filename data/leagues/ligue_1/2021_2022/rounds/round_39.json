@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2022-05-29",
+        "time": "13:00",
+        "home_goals": 1,
+        "away_goals": 2,
+        "id": 0,
+        "season_id": 6,
+        "league_id": 4,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "AS Saint-\u00c9tienne",
+        "away_team_name": "Association de la Jeunesse Auxerroise",
+        "home_team_id": 32,
+        "away_team_id": 3
+    },
+    {
+        "date": "2022-05-26",
+        "time": "13:00",
+        "home_goals": 1,
+        "away_goals": 1,
+        "id": 1,
+        "season_id": 6,
+        "league_id": 4,
+        "round": 39,
+        "result": 0,
+        "home_team_name": "Association de la Jeunesse Auxerroise",
+        "away_team_name": "AS Saint-\u00c9tienne",
+        "home_team_id": 3,
+        "away_team_id": 32
+    },
+    {
+        "date": "2022-05-20",
+        "time": "14:30",
+        "home_goals": 1,
+        "away_goals": 0,
+        "id": 2,
+        "season_id": 6,
+        "league_id": 4,
+        "round": 39,
+        "result": 1,
+        "home_team_name": "Association de la Jeunesse Auxerroise",
+        "away_team_name": "FC Sochaux-Montb\u00e9liard",
+        "home_team_id": 3,
+        "away_team_id": 31
+    },
+    {
+        "date": "2022-05-17",
+        "time": "14:30",
+        "home_goals": 1,
+        "away_goals": 2,
+        "id": 3,
+        "season_id": 6,
+        "league_id": 4,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "Paris FC",
+        "away_team_name": "FC Sochaux-Montb\u00e9liard",
+        "home_team_id": 26,
+        "away_team_id": 31
+    }
+]

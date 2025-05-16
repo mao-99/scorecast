@@ -1,0 +1,74 @@
+{
+    "new_york_city": {
+        "id": 19,
+        "name": "new_york_city",
+        "country": "United States",
+        "participated": true
+    },
+    "sporting_kansas_city": {
+        "id": 27,
+        "name": "sporting_kansas_city",
+        "country": "United States",
+        "participated": true
+    },
+    "real_salt_lake": {
+        "id": 24,
+        "name": "real_salt_lake",
+        "country": "United States",
+        "participated": true
+    },
+    "colorado_rapids": {
+        "id": 5,
+        "name": "colorado_rapids",
+        "country": "United States",
+        "participated": true
+    },
+    "seattle_sounders": {
+        "id": 26,
+        "name": "seattle_sounders",
+        "country": "United States",
+        "participated": true
+    },
+    "cf_montreal": {
+        "id": 2,
+        "name": "cf_montreal",
+        "country": "United States",
+        "participated": true
+    },
+    "philadelphia_union": {
+        "id": 22,
+        "name": "philadelphia_union",
+        "country": "United States",
+        "participated": true
+    },
+    "los_angeles_galaxy": {
+        "id": 14,
+        "name": "los_angeles_galaxy",
+        "country": "United States",
+        "participated": true
+    },
+    "toronto_fc": {
+        "id": 29,
+        "name": "toronto_fc",
+        "country": "United States",
+        "participated": true
+    },
+    "dc_united": {
+        "id": 7,
+        "name": "dc_united",
+        "country": "United States",
+        "participated": true
+    },
+    "fc_dallas": {
+        "id": 9,
+        "name": "fc_dallas",
+        "country": "United States",
+        "participated": true
+    },
+    "new_york_red_bulls": {
+        "id": 20,
+        "name": "new_york_red_bulls",
+        "country": "United States",
+        "participated": true
+    }
+}

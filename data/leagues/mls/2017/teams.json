@@ -1,0 +1,74 @@
+{
+    "new_york_city": {
+        "id": 19,
+        "name": "new_york_city",
+        "country": "United States",
+        "participated": true
+    },
+    "sporting_kansas_city": {
+        "id": 27,
+        "name": "sporting_kansas_city",
+        "country": "United States",
+        "participated": true
+    },
+    "vancouver_whitecaps": {
+        "id": 30,
+        "name": "vancouver_whitecaps",
+        "country": "United States",
+        "participated": true
+    },
+    "columbus_crew": {
+        "id": 6,
+        "name": "columbus_crew",
+        "country": "United States",
+        "participated": true
+    },
+    "chicago_fire": {
+        "id": 4,
+        "name": "chicago_fire",
+        "country": "United States",
+        "participated": true
+    },
+    "atlanta_utd": {
+        "id": 0,
+        "name": "atlanta_utd",
+        "country": "United States",
+        "participated": true
+    },
+    "seattle_sounders": {
+        "id": 26,
+        "name": "seattle_sounders",
+        "country": "United States",
+        "participated": true
+    },
+    "san_jose_earthquakes": {
+        "id": 25,
+        "name": "san_jose_earthquakes",
+        "country": "United States",
+        "participated": true
+    },
+    "houston_dynamo": {
+        "id": 10,
+        "name": "houston_dynamo",
+        "country": "United States",
+        "participated": true
+    },
+    "portland_timbers": {
+        "id": 23,
+        "name": "portland_timbers",
+        "country": "United States",
+        "participated": true
+    },
+    "toronto_fc": {
+        "id": 29,
+        "name": "toronto_fc",
+        "country": "United States",
+        "participated": true
+    },
+    "new_york_red_bulls": {
+        "id": 20,
+        "name": "new_york_red_bulls",
+        "country": "United States",
+        "participated": true
+    }
+}

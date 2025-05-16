@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2023-11-06",
+        "time": "14:45",
+        "home_goals": 1,
+        "away_goals": 3,
+        "id": 0,
+        "season_id": 5,
+        "league_id": 2,
+        "round": 39,
+        "result": 2,
+        "home_team_name": "Spezia Calcio",
+        "away_team_name": "Hellas Verona FC",
+        "home_team_id": 26,
+        "away_team_id": 30
+    }
+]

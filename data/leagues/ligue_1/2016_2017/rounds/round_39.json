@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2017-05-28",
+        "time": "15:00",
+        "home_goals": 0,
+        "away_goals": 0,
+        "id": 0,
+        "season_id": 1,
+        "league_id": 4,
+        "round": 39,
+        "result": 0,
+        "home_team_name": "FC Lorient",
+        "away_team_name": "ES Troyes AC",
+        "home_team_id": 16,
+        "away_team_id": 35
+    },
+    {
+        "date": "2017-05-25",
+        "time": "14:45",
+        "home_goals": 2,
+        "away_goals": 1,
+        "id": 1,
+        "season_id": 1,
+        "league_id": 4,
+        "round": 39,
+        "result": 1,
+        "home_team_name": "ES Troyes AC",
+        "away_team_name": "FC Lorient",
+        "home_team_id": 35,
+        "away_team_id": 16
+    }
+]

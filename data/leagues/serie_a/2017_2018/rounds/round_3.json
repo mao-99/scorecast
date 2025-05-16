@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2018-01-24",
+        "time": "14:45",
+        "home_goals": 1,
+        "away_goals": 1,
+        "id": 0,
+        "season_id": 0,
+        "league_id": 2,
+        "round": 3,
+        "result": 0,
+        "home_team_name": "UC Sampdoria",
+        "away_team_name": "AS Roma",
+        "home_team_id": 23,
+        "away_team_id": 1
+    }
+]

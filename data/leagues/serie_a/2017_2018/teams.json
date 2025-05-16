@@ -1,0 +1,122 @@
+{
+    "as_roma": {
+        "id": 1,
+        "name": "as_roma",
+        "country": "Italy",
+        "participated": true
+    },
+    "juventus": {
+        "id": 16,
+        "name": "juventus",
+        "country": "Italy",
+        "participated": true
+    },
+    "verona": {
+        "id": 30,
+        "name": "verona",
+        "country": "Italy",
+        "participated": true
+    },
+    "lazio": {
+        "id": 17,
+        "name": "lazio",
+        "country": "Italy",
+        "participated": true
+    },
+    "benevento": {
+        "id": 3,
+        "name": "benevento",
+        "country": "Italy",
+        "participated": true
+    },
+    "bologna": {
+        "id": 4,
+        "name": "bologna",
+        "country": "Italy",
+        "participated": true
+    },
+    "udinese": {
+        "id": 28,
+        "name": "udinese",
+        "country": "Italy",
+        "participated": true
+    },
+    "torino": {
+        "id": 27,
+        "name": "torino",
+        "country": "Italy",
+        "participated": true
+    },
+    "ac_milan": {
+        "id": 0,
+        "name": "ac_milan",
+        "country": "Italy",
+        "participated": true
+    },
+    "genoa": {
+        "id": 14,
+        "name": "genoa",
+        "country": "Italy",
+        "participated": true
+    },
+    "fiorentina": {
+        "id": 12,
+        "name": "fiorentina",
+        "country": "Italy",
+        "participated": true
+    },
+    "spal": {
+        "id": 25,
+        "name": "spal",
+        "country": "Italy",
+        "participated": true
+    },
+    "crotone": {
+        "id": 10,
+        "name": "crotone",
+        "country": "Italy",
+        "participated": true
+    },
+    "sampdoria": {
+        "id": 23,
+        "name": "sampdoria",
+        "country": "Italy",
+        "participated": true
+    },
+    "atalanta": {
+        "id": 2,
+        "name": "atalanta",
+        "country": "Italy",
+        "participated": true
+    },
+    "inter": {
+        "id": 15,
+        "name": "inter",
+        "country": "Italy",
+        "participated": true
+    },
+    "sassuolo": {
+        "id": 24,
+        "name": "sassuolo",
+        "country": "Italy",
+        "participated": true
+    },
+    "cagliari": {
+        "id": 6,
+        "name": "cagliari",
+        "country": "Italy",
+        "participated": true
+    },
+    "napoli": {
+        "id": 20,
+        "name": "napoli",
+        "country": "Italy",
+        "participated": true
+    },
+    "chievo": {
+        "id": 7,
+        "name": "chievo",
+        "country": "Italy",
+        "participated": true
+    }
+}

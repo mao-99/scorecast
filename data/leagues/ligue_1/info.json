@@ -1,0 +1,189 @@
+{
+    "id": 4,
+    "name": "Ligue 1",
+    "country": "France",
+    "founded": null,
+    "num_teams": 36,
+    "teams": {
+        "ac_ajaccio": {
+            "id": 0,
+            "full_name": "AC Ajaccio",
+            "short_name": "ac_ajaccio"
+        },
+        "amiens": {
+            "id": 1,
+            "full_name": "Amiens SC",
+            "short_name": "amiens"
+        },
+        "angers": {
+            "id": 2,
+            "full_name": "Angers SCO",
+            "short_name": "angers"
+        },
+        "auxerre": {
+            "id": 3,
+            "full_name": "Association de la Jeunesse Auxerroise",
+            "short_name": "auxerre"
+        },
+        "bastia": {
+            "id": 4,
+            "full_name": "SC Bastia",
+            "short_name": "bastia"
+        },
+        "bordeaux": {
+            "id": 5,
+            "full_name": "FC Girondins de Bordeaux",
+            "short_name": "bordeaux"
+        },
+        "brest": {
+            "id": 6,
+            "full_name": "Stade Brestois 29",
+            "short_name": "brest"
+        },
+        "caen": {
+            "id": 7,
+            "full_name": "Stade Malherbe Caen",
+            "short_name": "caen"
+        },
+        "clermont": {
+            "id": 8,
+            "full_name": "Clermont Foot 63",
+            "short_name": "clermont"
+        },
+        "dijon": {
+            "id": 9,
+            "full_name": "Dijon FC C\u00f4te d'Or",
+            "short_name": "dijon"
+        },
+        "gfc_ajaccio": {
+            "id": 10,
+            "full_name": "Gaz\u00e9lec FC Ajaccio",
+            "short_name": "gfc_ajaccio"
+        },
+        "grenoble": {
+            "id": 11,
+            "full_name": "Grenoble Foot 38",
+            "short_name": "grenoble"
+        },
+        "guingamp": {
+            "id": 12,
+            "full_name": "En Avant Guingamp",
+            "short_name": "guingamp"
+        },
+        "le_havre": {
+            "id": 13,
+            "full_name": "Le Havre AC",
+            "short_name": "le_havre"
+        },
+        "lens": {
+            "id": 14,
+            "full_name": "Racing Club de Lens",
+            "short_name": "lens"
+        },
+        "lille": {
+            "id": 15,
+            "full_name": "LOSC Lille",
+            "short_name": "lille"
+        },
+        "lorient": {
+            "id": 16,
+            "full_name": "FC Lorient",
+            "short_name": "lorient"
+        },
+        "lyon": {
+            "id": 17,
+            "full_name": "Olympique Lyonnais",
+            "short_name": "lyon"
+        },
+        "marseille": {
+            "id": 18,
+            "full_name": "Olympique de Marseille",
+            "short_name": "marseille"
+        },
+        "metz": {
+            "id": 19,
+            "full_name": "FC Metz",
+            "short_name": "metz"
+        },
+        "monaco": {
+            "id": 20,
+            "full_name": "AS Monaco FC",
+            "short_name": "monaco"
+        },
+        "montpellier": {
+            "id": 21,
+            "full_name": "Montpellier H\u00e9rault SC",
+            "short_name": "montpellier"
+        },
+        "nancy": {
+            "id": 22,
+            "full_name": "AS Nancy-Lorraine",
+            "short_name": "nancy"
+        },
+        "nantes": {
+            "id": 23,
+            "full_name": "FC Nantes",
+            "short_name": "nantes"
+        },
+        "nice": {
+            "id": 24,
+            "full_name": "OGC Nice C\u00f4te d'Azur",
+            "short_name": "nice"
+        },
+        "nimes": {
+            "id": 25,
+            "full_name": "N\u00eemes Olympique",
+            "short_name": "nimes"
+        },
+        "paris_fc": {
+            "id": 26,
+            "full_name": "Paris FC",
+            "short_name": "paris_fc"
+        },
+        "psg": {
+            "id": 27,
+            "full_name": "Paris Saint-Germain FC",
+            "short_name": "psg"
+        },
+        "reims": {
+            "id": 28,
+            "full_name": "Stade de Reims",
+            "short_name": "reims"
+        },
+        "rennes": {
+            "id": 29,
+            "full_name": "Stade Rennais FC",
+            "short_name": "rennes"
+        },
+        "rodez": {
+            "id": 30,
+            "full_name": "Rodez Aveyron Football",
+            "short_name": "rodez"
+        },
+        "sochaux": {
+            "id": 31,
+            "full_name": "FC Sochaux-Montb\u00e9liard",
+            "short_name": "sochaux"
+        },
+        "st_etienne": {
+            "id": 32,
+            "full_name": "AS Saint-\u00c9tienne",
+            "short_name": "st_etienne"
+        },
+        "strasbourg": {
+            "id": 33,
+            "full_name": "RC Strasbourg Alsace",
+            "short_name": "strasbourg"
+        },
+        "toulouse": {
+            "id": 34,
+            "full_name": "Toulouse FC",
+            "short_name": "toulouse"
+        },
+        "troyes": {
+            "id": 35,
+            "full_name": "ES Troyes AC",
+            "short_name": "troyes"
+        }
+    }
+}

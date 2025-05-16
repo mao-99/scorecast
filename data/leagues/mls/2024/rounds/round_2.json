@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2024-07-24",
+        "time": "20:00",
+        "home_goals": 1,
+        "away_goals": 4,
+        "id": 0,
+        "season_id": 8,
+        "league_id": 5,
+        "round": 2,
+        "result": 2,
+        "home_team_name": "MLS All-Stars",
+        "away_team_name": "Liga MX All-Stars",
+        "home_team_id": 16,
+        "away_team_id": 12
+    }
+]

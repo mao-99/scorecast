@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2020-11-20",
+        "time": "21:00",
+        "home_goals": 3,
+        "away_goals": 0,
+        "id": 0,
+        "season_id": 4,
+        "league_id": 5,
+        "round": 0,
+        "result": 1,
+        "home_team_name": "Nashville SC",
+        "away_team_name": "Inter Miami CF",
+        "home_team_id": 17,
+        "away_team_id": 11
+    },
+    {
+        "date": "2020-11-20",
+        "time": "18:30",
+        "home_goals": 2,
+        "away_goals": 1,
+        "id": 1,
+        "season_id": 4,
+        "league_id": 5,
+        "round": 0,
+        "result": 1,
+        "home_team_name": "New England Revolution",
+        "away_team_name": "CF Montr\u00e9al",
+        "home_team_id": 18,
+        "away_team_id": 2
+    }
+]

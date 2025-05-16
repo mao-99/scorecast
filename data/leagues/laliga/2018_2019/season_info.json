@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "2018_2019",
+    "league_id": 3,
+    "start_date": "2018-01-09",
+    "end_date": "2019-12-05",
+    "status": "completed",
+    "num_teams": 20,
+    "total_matches": 380,
+    "rounds": 38
+}

@@ -1,0 +1,11 @@
+{
+    "id": 7,
+    "name": "2024_2025",
+    "league_id": 2,
+    "start_date": "2024-01-09",
+    "end_date": "2025-12-01",
+    "status": "active",
+    "num_teams": 20,
+    "total_matches": 209,
+    "rounds": 21
+}
